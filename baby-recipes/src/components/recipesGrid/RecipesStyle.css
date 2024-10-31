@@ -1,0 +1,9 @@
+.main-container-recipes ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+.main-container-recipes ul li{
+    width: 30%;
+}
